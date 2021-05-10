@@ -1,0 +1,5 @@
+main\service\MovieService.class
+main\entity\MovieEntity.class
+main\dao\MovieDao.class
+main\Main.class
+main\controller\MovieController.class

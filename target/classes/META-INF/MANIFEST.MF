@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Admin
+Build-Jdk: 15.0.1
+Implementation-Title: Shopping-app
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: Shopping-app
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Shopping-app
+Created-By: Maven Integration for Eclipse
+
